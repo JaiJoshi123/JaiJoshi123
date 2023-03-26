@@ -1,4 +1,4 @@
-Hey there! 👋
+## Hey there! [Jai Joshi]() here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px">
 
 I am currently a **final-year** student at **Sardar Patel Institute of Technology**, pursuing my **Bachelor in Technology** in **Information Technology**. 
 

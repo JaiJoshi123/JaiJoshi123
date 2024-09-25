@@ -1,6 +1,6 @@
 ## Hey there! [Jai Joshi](https://jaijoshi123.github.io/) here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px">
 
-I am currently a **First-Year** Master's student at **Georgia Institute of Technology**, pursuing my **Master of Science** in **Computer Science**. 
+I am currently a **Second-Year** Master's student at **Georgia Institute of Technology** (May 2025 Grad), pursuing my **Master of Science** in **Computer Science**. 
 
 A dedicated developer with a rapid learning curve who is looking to broaden his skill set. I am a 💻Full-stack developer, 📱Mobile-App Developer, 🤖AI/ML & Blockchain enthusiast and a 🎻part-time guitarist ;)
 

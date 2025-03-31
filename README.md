@@ -22,8 +22,6 @@ Throughout my academic journey, I have continually broadened my knowledge throug
 
 👨‍💻  Contributor for GirlScript Winter of Contributing (GWoC) 2021. [View Certificate](https://drive.google.com/file/d/1qP0-UZZu44Vbi-x9M7FHp3uvTWvalNeH/view)
 
-👨‍💻  Currently contributing in Google Summer of Code (GSOC) 2023
-
 
 
 ### My Tech Stacks:
